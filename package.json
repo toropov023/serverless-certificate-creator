@@ -1,5 +1,5 @@
 {
-  "name": "serverless-certificate-creator",
+  "name": "@toropov/serverless-certificate-creator",
   "version": "1.6.0",
   "description": "creates a certificate that can be used for custom domains for your api gateway",
   "main": "index.js",

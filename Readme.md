@@ -1,3 +1,6 @@
+**This npm package was created for the following pull request: https://github.com/schwamster/serverless-certificate-creator/pull/62** \
+**If the PR is ever merged this package will be deleted**
+
 # serverless-certificate-creator
 
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
